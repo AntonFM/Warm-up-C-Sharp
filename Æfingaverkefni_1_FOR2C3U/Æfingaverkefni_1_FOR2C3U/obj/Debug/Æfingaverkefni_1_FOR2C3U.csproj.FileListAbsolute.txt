@@ -1,0 +1,9 @@
+c:\users\3003922969\documents\visual studio 2013\Projects\Æfingaverkefni_1_FOR2C3U\Æfingaverkefni_1_FOR2C3U\bin\Debug\Æfingaverkefni_1_FOR2C3U.exe.config
+c:\users\3003922969\documents\visual studio 2013\Projects\Æfingaverkefni_1_FOR2C3U\Æfingaverkefni_1_FOR2C3U\bin\Debug\Æfingaverkefni_1_FOR2C3U.exe
+c:\users\3003922969\documents\visual studio 2013\Projects\Æfingaverkefni_1_FOR2C3U\Æfingaverkefni_1_FOR2C3U\bin\Debug\Æfingaverkefni_1_FOR2C3U.pdb
+c:\users\3003922969\documents\visual studio 2013\Projects\Æfingaverkefni_1_FOR2C3U\Æfingaverkefni_1_FOR2C3U\obj\Debug\Æfingaverkefni_1_FOR2C3U.csprojResolveAssemblyReference.cache
+c:\users\3003922969\documents\visual studio 2013\Projects\Æfingaverkefni_1_FOR2C3U\Æfingaverkefni_1_FOR2C3U\obj\Debug\Æfingaverkefni_1_FOR2C3U.exe
+c:\users\3003922969\documents\visual studio 2013\Projects\Æfingaverkefni_1_FOR2C3U\Æfingaverkefni_1_FOR2C3U\obj\Debug\Æfingaverkefni_1_FOR2C3U.pdb
+H:\2016 ný önn\C#\Æfingaverkefni_1_FOR2C3U\Æfingaverkefni_1_FOR2C3U\bin\Debug\Æfingaverkefni_1_FOR2C3U.exe.config
+H:\2016 ný önn\C#\Æfingaverkefni_1_FOR2C3U\Æfingaverkefni_1_FOR2C3U\obj\Debug\Æfingaverkefni_1_FOR2C3U.exe
+H:\2016 ný önn\C#\Æfingaverkefni_1_FOR2C3U\Æfingaverkefni_1_FOR2C3U\obj\Debug\Æfingaverkefni_1_FOR2C3U.pdb
